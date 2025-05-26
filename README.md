@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abner Rodriguez</h1>
 <h3 align="center">A passionate backend developer from Miami</h3>
 
-- 🔭 I’m currently working on **a practice REST API for a bookstore.**
+- 🔭 I’m currently working on **a practice REST API for a gym-system.**
 
 - 🌱 I’m currently learning **Spring Boot**
 
