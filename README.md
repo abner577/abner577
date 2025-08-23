@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abner Rodriguez</h1>
 <h3 align="center">A passionate backend developer from Miami</h3>
 
-- 🔭 I’m currently working on **a practice REST API for a gym-system.**
-
-- 🌱 I’m currently learning **Spring Boot**
-
 - 📫 How to reach me **abner07282005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
