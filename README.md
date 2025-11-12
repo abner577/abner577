@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abner Rodriguez</h1>
-> _"Building reliable backend systems and intelligent AI tools that make technology more human."_  
+_"Building reliable backend systems and intelligent AI tools that make technology more human."_  
 
 📧 **Reach me at:** [abner07282005@gmail.com](mailto:abner07282005@gmail.com)  
 🌎 **Based in:** Miami, Florida  
