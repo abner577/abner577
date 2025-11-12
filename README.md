@@ -1,5 +1,46 @@
 <h1 align="center">Hi 👋, I'm Abner Rodriguez</h1>
-<h3 align="center">A passionate backend developer from Miami</h3>
+
+---
+
+### 👨‍💻 About Me  
+I'm a **Computer Science Junior from Florida International University** passionate about **Applied Deep Learning research** and **Software Engineering**.  
+I love designing intelligent systems that make technology more accessible and impactful — especially through backend development, AI safety, and media analysis.  
+Currently, I’m leading the development of **EchoGuard**, an AI-powered web application that helps parents detect beneficial or harmful media exposure through real-time audio classification.  
+🌱 I’m currently learning: PyTorch, AWS, and the Gemini API.
+🎯 Working on: Expanding EchoGuard’s backend pipeline for contextual audio analysis and CNN-based sound classification.
+
+---
+
+### 🔬 Latest Projects  
+
+**EchoGuard** — *Team Lead (Python, Flask, React, PyTorch)*  
+Building an AI-based web app that analyzes short audio clips and uses a CNN machine learning model to detect harmful environmental sounds.  
+Integrated dual-stream audio processing — dialogue analysis via Gemini and contextual sound classification using CNNs trained on spectrograms. 
+
+**Gym Management System RESTful API** — *Independent Developer (Java, Spring Boot, PostgreSQL)*  
+Developed a RESTful API with 45+ endpoints replicating core gym operations.  
+Achieved 95%+ code coverage using JUnit and Mockito and implemented CI/CD pipelines with Jenkins and Docker.  
+
+**Baserow (Open-Source Contribution)** — *Contributor (Python, Django, Vue.js)*   
+Contributed to a 2M+ line open-source platform maintained by 50+ global developers.  
+
+---
+
+### 🧪 Experience & Research  
+
+**Incoming Undergraduate Research Assistant – Florida International University** *(Spring 2026 – May 2026)*  
+Working under *Dr. [Professor’s Name]* to explore topics in **AI interpretability, model robustness, and intelligent media analysis systems**.  
+
+**Technical Audio Team Lead – Primera Iglesia Bautista Hispana de Hialeah** *(Jun 2024 – Present)*  
+Leading a team of 'technicians', ensuring reliable live-streamed and in-person service delivery for 75+ weekly attendees.  
+
+---
+
+### 📚 Research Interests  
+- AI Safety & Interpretability  
+- Audio Intelligence and Signal Processing  
+- Machine Learning Model Visualization  
+- Backend Systems and API Scalability  
 
 - 📫 How to reach me **abner07282005@gmail.com**
 
