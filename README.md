@@ -1,37 +1,44 @@
 <h1 align="center">Hi 👋, I'm Abner Rodriguez</h1>
-📫 How to reach me: [abner07282005@gmail.com](mailto:abner07282005@gmail.com)
+> _"Building reliable backend systems and intelligent AI tools that make technology more human."_  
+
+📧 **Reach me at:** [abner07282005@gmail.com](mailto:abner07282005@gmail.com)  
+🌎 **Based in:** Miami, Florida  
+🎓 **Computer Science Senior at [Florida International University](https://www.google.com/search?q=Florida+International+University)**  
+🎯 **Focus:** Applied Deep Learning · Software Engineering · AI Interpretability  
 
 ---
 
-### 👨‍💻 About Me  
-I'm a **Computer Science Senior from [Florida International University](https://www.google.com/search?q=Florida+International+University)**, passionate about **Applied Deep Learning research** and **Software Engineering**.  
-I enjoy designing reliable systems that make technology more accessible and impactful, especially through backend development and applied Machine Learning.
-Currently, I’m leading the development of **EchoGuard**, an AI-powered web application that helps parents detect beneficial or harmful media exposure through real-time audio classification.  
-🌱 I’m currently learning: PyTorch, AWS, and the [Gemini API](https://ai.google.dev/gemini-api/docs).
+## 🧠 About Me  
+
+I enjoy designing reliable systems that make technology more accessible and impactful, especially through backend development and applied Machine Learning. Currently, I’m leading the development of **[EchoGuard](https://github.com/abner577/echoguard)** — an AI-powered web application that helps parents detect beneficial or harmful media exposure through real-time audio classification.
+
+**Currently exploring:**  
+> PyTorch · AWS · [Gemini API](https://ai.google.dev/gemini-api/docs/overview)
 
 ---
 
-### 🔬 Latest Projects  
+## ⚙️ Featured Projects  
 
-**[EchoGuard](https://github.com/kevinsanchh/echoguard)** — *Team Lead (Python, Flask, React, PyTorch)*  
-Building an AI-based web app that analyzes short audio clips and uses a CNN machine learning model to detect harmful environmental sounds.  
-
-**[Gym Management System RESTful API](https://github.com/abner577/springboot-gym-api)** — *Independent Developer (Java, Spring Boot, PostgreSQL)*  
-Developed a RESTful API with 45+ endpoints replicating core gym operations.  
-Achieved 95%+ code coverage using JUnit and Mockito and implemented CI/CD pipelines with Jenkins and Docker.  
-
-**[Baserow (Open-Source Contribution)](https://gitlab.com/baserow/baserow)** — *Contributor (Python, Django, Vue.js)*   
-Contributed to a 2M+ line open-source platform maintained by 50+ global developers.  
+| Project | Role | Description |
+|----------|------|-------------|
+| 🎧 **[EchoGuard](https://github.com/abner577/echoguard)** | Team Lead | Building an AI-based web app that analyzes short audio clips and uses a CNN machine learning model to detect harmful environmental sounds. |
+| 🏋️ **[Gym Management System RESTful API](https://github.com/abner577/springboot-gym-api)** | Independent Developer | Built 45+ endpoints with Java, Spring Boot, and PostgreSQL; implemented CI/CD with Jenkins and Docker. |
+| 🧩 **[Baserow (Open-Source Contribution)](https://gitlab.com/abner577/baserow)** | Contributor | Contributed to a 2M+ line open-source platform maintained by 50+ global developers. |
 
 ---
 
-### 🧪 Experience & Research  
+## 🧪 Experience & Research  
 
-**Incoming Undergraduate Research Assistant – [CAHSI Undergraduate Research Program](https://cahsi.utep.edu/) at Florida International University** *(Spring 2026 – May 2026)*  
-Working under *Professor Abdul (Gilal) Rehman* to explore topics in **AI interpretability.** 
+### CAHSI Undergraduate Research Program – [CAHSI LREU](https://cahsi.utep.edu/)  
+**Incoming Undergraduate Research Assistant** (Spring 2026 – May 2026)  
+Working under **Professor Abdul (Gilal) Rehman** at [FIU](https://www.google.com/search?q=Florida+International+University)  
+> Exploring topics in **AI security** and **audio analysis**
 
-**Technical Audio Team Lead – [Primera Iglesia Bautista Hispana de Hialeah](https://www.youtube.com/@IglesiadelaGracia-Hialeah/featured)** *(Jun 2024 – Present)*  
-Leading a team of 'technicians', ensuring reliable live-streamed and in-person service delivery for 75+ weekly attendees.  
+---
+
+###[Primera Iglesia Bautista Hispana de Hialeah](https://www.youtube.com/@IglesiadelaGracia-Hialeah)  
+**Technical Audio Team Lead** (Jun 2024 – Present)  
+Leading a team of technicians, ensuring reliable live-streamed and in-person service delivery for 75+ weekly attendees.
 
 ---
 
