@@ -4,7 +4,7 @@
 📧 **Reach me at:** [abner07282005@gmail.com](mailto:abner07282005@gmail.com)  
 🌎 **Based in:** Miami, Florida  
 🎓 **Computer Science Senior at [Florida International University](https://www.google.com/search?q=Florida+International+University)**  
-🎯 **Focus:** Applied Deep Learning · Software Engineering · AI Interpretability  
+🎯 **Focus:** Applied Deep Learning · Software Engineering · AI Security  
 
 ---
 
@@ -12,7 +12,7 @@
 
 I enjoy designing reliable systems that make technology more accessible and impactful, especially through backend development and applied Machine Learning. Currently, I’m leading the development of **[EchoGuard](https://github.com/abner577/echoguard)** — an AI-powered web application that helps parents detect beneficial or harmful media exposure through real-time audio classification.
 
-**Currently exploring:**  
+**Currently exploring/learning:**  
 > PyTorch · AWS · [Gemini API](https://ai.google.dev/gemini-api/docs/overview)
 
 ---
@@ -32,11 +32,11 @@ I enjoy designing reliable systems that make technology more accessible and impa
 ### CAHSI Undergraduate Research Program – [CAHSI LREU](https://cahsi.utep.edu/)  
 **Incoming Undergraduate Research Assistant** (Spring 2026 – May 2026)  
 Working under **Professor Abdul (Gilal) Rehman** at [FIU](https://www.google.com/search?q=Florida+International+University)  
-> Exploring topics in **AI security** and **audio analysis**
+Exploring topics in **AI security** and **audio analysis**
 
 ---
 
-###[Primera Iglesia Bautista Hispana de Hialeah](https://www.youtube.com/@IglesiadelaGracia-Hialeah)  
+### [Primera Iglesia Bautista Hispana de Hialeah](https://www.youtube.com/@IglesiadelaGracia-Hialeah)  
 **Technical Audio Team Lead** (Jun 2024 – Present)  
 Leading a team of technicians, ensuring reliable live-streamed and in-person service delivery for 75+ weekly attendees.
 
