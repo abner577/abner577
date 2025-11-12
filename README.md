@@ -1,36 +1,36 @@
 <h1 align="center">Hi 👋, I'm Abner Rodriguez</h1>
-📫 How to reach me: abner07282005@gmail.com
+📫 How to reach me: [abner07282005@gmail.com](mailto:abner07282005@gmail.com)
 
 ---
 
 ### 👨‍💻 About Me  
-I'm a **Computer Science Junior from Florida International University**, passionate about **Applied Deep Learning research** and **Software Engineering**.  
+I'm a **Computer Science Senior from [Florida International University](https://www.google.com/search?q=Florida+International+University)**, passionate about **Applied Deep Learning research** and **Software Engineering**.  
 I enjoy designing reliable systems that make technology more accessible and impactful, especially through backend development and applied Machine Learning.
 Currently, I’m leading the development of **EchoGuard**, an AI-powered web application that helps parents detect beneficial or harmful media exposure through real-time audio classification.  
-🌱 I’m currently learning: PyTorch, AWS, and the Gemini API.
+🌱 I’m currently learning: PyTorch, AWS, and the [Gemini API](https://ai.google.dev/gemini-api/docs).
 
 ---
 
 ### 🔬 Latest Projects  
 
-**EchoGuard** — *Team Lead (Python, Flask, React, PyTorch)*  
+**[EchoGuard](https://github.com/kevinsanchh/echoguard)** — *Team Lead (Python, Flask, React, PyTorch)*  
 Building an AI-based web app that analyzes short audio clips and uses a CNN machine learning model to detect harmful environmental sounds.  
 
-**Gym Management System RESTful API** — *Independent Developer (Java, Spring Boot, PostgreSQL)*  
+**[Gym Management System RESTful API](https://github.com/abner577/springboot-gym-api)** — *Independent Developer (Java, Spring Boot, PostgreSQL)*  
 Developed a RESTful API with 45+ endpoints replicating core gym operations.  
 Achieved 95%+ code coverage using JUnit and Mockito and implemented CI/CD pipelines with Jenkins and Docker.  
 
-**Baserow (Open-Source Contribution)** — *Contributor (Python, Django, Vue.js)*   
+**[Baserow (Open-Source Contribution)](https://gitlab.com/baserow/baserow)** — *Contributor (Python, Django, Vue.js)*   
 Contributed to a 2M+ line open-source platform maintained by 50+ global developers.  
 
 ---
 
 ### 🧪 Experience & Research  
 
-**Incoming Undergraduate Research Assistant – CAHSI Undergraduate Research Program at Florida International University** *(Spring 2026 – May 2026)*  
-Working under *Professor [Professor’s Name]* to explore topics in **AI interpretability.** 
+**Incoming Undergraduate Research Assistant – [CAHSI Undergraduate Research Program](https://cahsi.utep.edu/) at Florida International University** *(Spring 2026 – May 2026)*  
+Working under *Professor Abdul (Gilal) Rehman* to explore topics in **AI interpretability.** 
 
-**Technical Audio Team Lead – Primera Iglesia Bautista Hispana de Hialeah** *(Jun 2024 – Present)*  
+**Technical Audio Team Lead – [Primera Iglesia Bautista Hispana de Hialeah](https://www.youtube.com/@IglesiadelaGracia-Hialeah/featured)** *(Jun 2024 – Present)*  
 Leading a team of 'technicians', ensuring reliable live-streamed and in-person service delivery for 75+ weekly attendees.  
 
 ---
