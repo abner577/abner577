@@ -9,7 +9,7 @@
 
 ## 🧠 About Me  
 
-I enjoy designing reliable systems that make technology more accessible and impactful, especially through backend development and applied Machine Learning. Currently, I’m leading the development of **[EchoGuard](https://github.com/abner577/echoguard)** — an AI-powered web application that helps parents detect beneficial or harmful media exposure through real-time audio classification.
+I enjoy designing reliable systems that make technology more accessible and impactful, especially through backend development and applied Machine Learning. Currently, I’m leading the development of **[EchoGuard](https://github.com/kevinsanchh/echoguard)** — an AI-powered web application that helps parents detect beneficial or harmful media exposure through real-time audio classification.
 
 **Currently exploring/learning:**  
 > PyTorch · AWS · [Gemini API](https://ai.google.dev/gemini-api/docs/overview)
@@ -20,7 +20,7 @@ I enjoy designing reliable systems that make technology more accessible and impa
 
 | Project | Role | Description |
 |----------|------|-------------|
-| 🎧 **[EchoGuard](https://github.com/abner577/echoguard)** | Team Lead | Building an AI-based web app that analyzes short audio clips and uses a CNN machine learning model to detect harmful environmental sounds. |
+| 🎧 **[EchoGuard](https://github.com/kevinsanchh/echoguard)** | Team Lead | Building an AI-based web app that analyses short audio clips and uses a CNN machine learning model to detect harmful environmental sounds. |
 | 🏋️ **[Gym Management System RESTful API](https://github.com/abner577/springboot-gym-api)** | Independent Developer | Built 45+ endpoints with Java, Spring Boot, and PostgreSQL; implemented CI/CD with Jenkins and Docker. |
 | 🧩 **[Baserow (Open-Source Contribution)](https://gitlab.com/abner577/baserow)** | Contributor | Contributed to a 2M+ line open-source platform maintained by 50+ global developers. |
 
