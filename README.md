@@ -1,32 +1,32 @@
 <h1 align="center">Hi 👋, I'm Abner Rodriguez</h1>
 
-📧 **Reach me at:** [abner07282005@gmail.com](mailto:abner07282005@gmail.com)  
-🌎 **Based in:** Miami, Florida  
-🎓 **Computer Science Senior at [Florida International University](https://www.google.com/search?q=Florida+International+University)**  
-🎯 **Focus:** Applied Deep Learning · Software Engineering · AI Security  
+**Reach me at:** [abner07282005@gmail.com](mailto:abner07282005@gmail.com)  
+**Based in:** Miami, Florida  
+**Computer Science Senior at [Florida International University](https://www.google.com/search?q=Florida+International+University)**  
+**Focus:** Applied Deep Learning · Software Engineering · AI Security  
 
 ---
 
-## 🧠 About Me  
+## About Me  
 
-I enjoy designing reliable systems that make technology more accessible and impactful, especially through backend development and applied Machine Learning. Currently, I’m leading the development of **[EchoGuard](https://github.com/kevinsanchh/echoguard)** — an AI-powered web application that helps parents detect beneficial or harmful media exposure through real-time audio classification.
+I enjoy designing systems that make technology more accessible and impactful, especially through backend development and applied machine learning. Outside of tech, I spend most of my time dedicating myself to fitness and gaming. Currently, I'm playing Elden Ring for the first time!
 
 **Currently exploring/learning:**  
-> PyTorch · AWS · [Gemini API](https://ai.google.dev/gemini-api/docs/overview)
+> SQL · Cloud Development · Open-source contribution
 
 ---
 
-## ⚙️ Featured Projects  
+## Featured Projects  
 
 | Project | Role | Description |
 |----------|------|-------------|
-| 🎧 **[EchoGuard](https://github.com/kevinsanchh/echoguard)** | Team Lead | Building an AI-based web app that analyses short audio clips and uses a CNN machine learning model to detect harmful environmental sounds. |
+| 🎧 **[EchoGuard](https://github.com/kevinsanchh/echoguard)** | Team Lead | Built  an AI-based web app that analyses short audio clips and uses a CNN machine learning model to detect harmful environmental sounds. |
 | 🏋️ **[Gym Management System RESTful API](https://github.com/abner577/springboot-gym-api)** | Independent Developer | Built 45+ endpoints with Java, Spring Boot, and PostgreSQL; implemented CI/CD with Jenkins and Docker. |
 | 🧩 **[Baserow (Open-Source Contribution)](https://gitlab.com/abner577/baserow)** | Contributor | Contributed to a 2M+ line open-source platform maintained by 50+ global developers. |
 
 ---
 
-## 🧪 Experience & Research  
+## Experience & Research  
 
 ### Software Engineering Intern – [Lumen Technologies](https://www.lumen.com/en-us/home.html)  
 **Incoming Software Engineering Intern** (May 2026 – August 2026)  
@@ -34,9 +34,9 @@ I enjoy designing reliable systems that make technology more accessible and impa
 ---
 
 ### CAHSI Undergraduate Research Program – [CAHSI LREU](https://cahsi.utep.edu/)  
-**Incoming Undergraduate Research Assistant** (Spring 2026 – May 2026)  
+** Undergraduate Research Assistant** (Spring 2026 – May 2026)  
 Working under **Professor Abdul (Gilal) Rehman** at [FIU](https://www.google.com/search?q=Florida+International+University)  
-Exploring topics in **AI security** and **audio analysis**
+Exploring topics in **LLM security**
 
 ---
 
