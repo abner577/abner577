@@ -20,7 +20,7 @@ I enjoy designing systems that make technology more accessible and impactful, es
 | Project | Role | Description |
 |----------|------|-------------|
 | 🎧 **[EchoGuard](https://github.com/kevinsanchh/echoguard)** | Team Lead | Built an AI-based web app that analyses short audio clips and uses a CNN machine learning model to detect harmful environmental sounds. |
-| 🏋️ **[Gym Management System RESTful API](https://github.com/abner577/springboot-gym-api)** | Independent Developer | Built 45+ endpoints with Java, Spring Boot, and PostgreSQL; backend API for a gym's management software|
+| 🏋️ **[GymFlow](https://github.com/abner577/springboot-gym-api)** | Independent Developer | Built 45+ endpoints with Java, Spring Boot, and PostgreSQL; backend API for a gym's management software. |
 | 🧩 **[Baserow (Open-Source Contribution)](https://gitlab.com/abner577/baserow)** | Contributor | Contributed to a 2M+ line open-source platform maintained by 50+ global developers. |
 
 ---
