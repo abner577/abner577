@@ -33,7 +33,7 @@ I enjoy designing systems that make technology more accessible and impactful, es
 ---
 
 ### CAHSI Undergraduate Research Program – [CAHSI LREU](https://cahsi.utep.edu/)  
-** Undergraduate Research Assistant** (Spring 2026 – May 2026)  
+** Undergraduate Research Assistant** (January 2026 – April 2026)  
 Working under **Professor Abdul (Gilal) Rehman** at [FIU](https://www.google.com/search?q=Florida+International+University)  
 Exploring topics in **LLM security**
 
