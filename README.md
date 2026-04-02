@@ -8,7 +8,7 @@
 
 ## About Me  
 
-I enjoy designing systems that make technology more accessible and impactful, especially through backend development and machine learning. Outside of tech, I spend most of my time dedicating myself to fitness and gaming. Currently, I'm playing Elden Ring.
+I enjoy designing systems that make technology more accessible and impactful, especially through backend development and machine learning. Outside of tech, I spend most of my time dedicating myself to fitness and gaming. Currently, I'm playing League of Legends!
 
 **Currently exploring/learning:**  
 > SQL · Cloud Development · Open-source contribution
@@ -22,6 +22,7 @@ I enjoy designing systems that make technology more accessible and impactful, es
 | 🎧 **[EchoGuard](https://github.com/kevinsanchh/echoguard)** | Team Lead | Built an AI-based web app that analyses short audio clips and uses a CNN machine learning model to detect harmful environmental sounds. |
 | 🏋️ **[GymFlow](https://github.com/abner577/springboot-gym-api)** | Independent Developer | Built 45+ endpoints with Java, Spring Boot, and PostgreSQL; backend API for a gym's management software. |
 | 🧩 **[Baserow (Open-Source Contribution)](https://gitlab.com/abner577/baserow)** | Contributor | Contributed to a 2M+ line open-source platform maintained by 50+ global developers. |
+| ☄️ **[nasa-apod-cli](https://github.com/abner577/nasa-apod-cli)** | Independent Developer | Built a CLI tool that wraps the NASA APOD API and provides functionality for saving APOD files and setting them as desktop wallpaper (supports Windows, macOS, and Linux). |
 
 ---
 
