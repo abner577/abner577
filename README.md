@@ -8,7 +8,7 @@
 
 ## About Me  
 
-I enjoy designing systems that make technology more accessible and impactful, especially through backend development and machine learning. Outside of tech, I spend most of my time dedicating myself to fitness and gaming. Currently, I'm playing League of Legends!
+I enjoy designing systems that make technology more accessible and impactful, especially through backend development and machine learning. Outside of tech, I spend most of my time on fitness and gaming. Currently, I'm playing League of Legends!
 
 **Currently exploring/learning:**  
 > SQL · Cloud Development · Open-source contribution
@@ -28,8 +28,13 @@ I enjoy designing systems that make technology more accessible and impactful, es
 
 ## Experience & Research  
 
+### Software Engineering Intern – [Origen Tech](https://origentech.com/)  
+**Incoming Software Engineering Intern** (May 2026 – May 2026)  
+
+---
+
 ### Software Engineering Intern – [Lumen Technologies](https://www.lumen.com/en-us/home.html)  
-**Incoming Software Engineering Intern** (May 2026 – August 2026)  
+**Incoming Software Engineering Intern** (June 2026 – August 2026)  
 
 ---
 
