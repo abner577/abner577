@@ -40,7 +40,7 @@ I enjoy designing systems that make technology more accessible and impactful, es
 
 ### CAHSI Undergraduate Research Program – [CAHSI LREU](https://cahsi.utep.edu/)  
 ** Undergraduate Research Assistant** (January 2026 – April 2026)  
-Working under **Professor Abdul (Gilal) Rehman** at [FIU](https://www.google.com/search?q=Florida+International+University)  
+Working under **[Professor Abdul Rehman Gilal](https://scholar.google.com/citations?hl=en&user=a8wMdCAAAAAJ)** at [FIU](https://www.google.com/search?q=Florida+International+University)  
 - Researched whether information shared with ChatGPT in one conversation can later be retrieved in other conversations, either on the same account or from a different account, and whether memory-related settings affect that outcome. The results showed that information was able to be recovered in same-account testing when it had been saved to memory, while separate-account testing did not result in any information leak.
 ---
 
