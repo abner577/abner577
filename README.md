@@ -11,7 +11,7 @@
 I enjoy designing systems that make technology more accessible and impactful, especially through backend development and machine learning. Outside of tech, I spend most of my time on fitness and gaming. Currently, I'm playing League of Legends!
 
 **Currently exploring/learning:**  
-> SQL · Cloud Development · Open-source contribution
+> SAP · Cloud Development · Devops
 
 ---
 
