@@ -8,10 +8,10 @@
 
 ## About Me  
 
-I enjoy designing systems that make technology more accessible and impactful, especially through backend development and machine learning. Outside of tech, I spend most of my time on fitness and gaming. Currently, I'm playing League of Legends!
+I enjoy designing systems that make technology more accessible and impactful, especially through backend development and machine learning. Outside of tech, I spend most of my time on fitness and gaming.
 
 **Currently exploring/learning:**  
-> SAP · Cloud Development · Devops
+> SAP · Cloud Development · AI Agents
 
 ---
 
