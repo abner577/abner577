@@ -47,7 +47,3 @@ Worked under **[Professor Abdul Rehman Gilal](https://scholar.google.com/citatio
 ### [Primera Iglesia Bautista Hispana de Hialeah](https://www.youtube.com/@IglesiadelaGracia-Hialeah)  
 **Technical Audio Team Lead** (Jun 2024 – Present)  
 Leading a team of technicians, ensuring reliable live-streamed and in-person service delivery for 75+ weekly attendees.
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abner577&" alt="abner577" /></p>
